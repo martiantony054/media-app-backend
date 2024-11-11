@@ -1,0 +1,16 @@
+{
+  "name": "media-player-server",
+  "version": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "json-server": "^0.17.4"
+  }
+}
